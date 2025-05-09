@@ -3,9 +3,13 @@
 This is sample basic Application...
 
 Developer - Aung Myat Moe
+
 Project Manager - None
+
 Idea Reference - Own
+
 Development Stat & End Date - 08-05-2025:12:00 PM - 08-05-2025:4:00 PM
+
 Technologies - HTML, Bootstrap, JQUERY, API
 
 HTML 
